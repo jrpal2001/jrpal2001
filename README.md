@@ -1,6 +1,7 @@
 <div align="center">
-
-# Hi, I'm jrpal2001 👋
+<a href="https://github.com/jrpal2001">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+jrpal2001+%F0%9F%91%8B;Full-Stack+Software+Developer;JS+%E2%80%A2+TS+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Python+%E2%80%A2+AWS" alt="Typing SVG" />
+</a>
 
 Full-Stack Software Developer working with **JavaScript, TypeScript, React, Node.js, Python, and AWS**.
 
