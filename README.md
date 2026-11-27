@@ -15,7 +15,7 @@ Full-Stack Software Developer working with **JavaScript, TypeScript, React, Node
 
 ### 💼 Experience & Systems Worked On
 
-In my professional work, I've contributed to and built production web applications across multiple domains:
+In my professional work, I've contributed to and built production applications across multiple domains:
 
 - **PG & Rent Management System** — Automated rent calculation, PG room management, visit requests, and live map/location-based service technician lookup.
 - **CRM Platform** — Customer workflows, operational dashboards, and role/permission-based access control.
